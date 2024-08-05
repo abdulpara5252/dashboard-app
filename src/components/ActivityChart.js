@@ -48,7 +48,7 @@ const ActivityChart = () => {
     }, []);
 
     return (
-        <Box sx={{ height: '100%' }}>
+        <Box sx={{ height: '50%' }}>
             <Card>
                 <CardContent>
                     <Typography variant="h6" gutterBottom>
