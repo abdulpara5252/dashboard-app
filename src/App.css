@@ -38,6 +38,8 @@ body {
 
 .activity-chart{
   margin-top: 15px !important;
+  width: 100% !important;
+  height: 95% !important;
 }
 
 .net-profit-chart{
