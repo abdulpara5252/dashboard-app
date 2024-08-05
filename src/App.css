@@ -41,7 +41,7 @@ body {
 }
 
 .net-profit-chart{
-  height: 69% !important;
+  height: 76% !important;
 }
 
 .MuiBox-root .css-0{
@@ -49,5 +49,10 @@ body {
 }
 
 .quick-action{
-  margin-top: -50px !important;
+  margin-top: -30px !important;
+}
+
+.CircularProgressbar {
+  margin-top: -60px;
+    height: 90px;
 }
